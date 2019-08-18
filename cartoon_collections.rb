@@ -10,7 +10,7 @@ end
 def summon_captain_planet(veggies) # code an argument here
   extra_array= []
   veggies.collect do |call |
-  call.capitalize + "!"
+    call.capitalize + "!"
   end 
   return extra_array
 end
