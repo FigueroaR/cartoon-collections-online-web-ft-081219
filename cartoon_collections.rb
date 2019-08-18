@@ -10,6 +10,7 @@ end
 def summon_captain_planet(planeteer) # code an argument here
   extra_array= []
   veggies.collect do |call |
+  capitalize.
 end
 
 def long_planeteer_calls# code an argument here
